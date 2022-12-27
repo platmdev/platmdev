@@ -12,14 +12,14 @@ Currently working with Web Programing, but I love learn new thing in programming
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
+    - 🔭 I’m currently working on MANTRA </br>
+    - 🌱 I’m currently learning Python,Laravel, Js, Dart, Flutter, Kotlin </br>
+    - 👯 I’m looking to collaborate on Web Development Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:muayyaduddin98@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: I love Ayam Geprek 🐔 </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=platmdev&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
